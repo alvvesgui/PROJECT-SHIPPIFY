@@ -53,11 +53,9 @@ const getAllDrivers = async (filters = {}) => {
     return drivers;
 };
 
-// Outras funções como updateDriver e deleteDriver podem ser adicionadas aqui.
 
 module.exports = {
     createDriver,
     getAllDrivers,
-    // Exporte outras funções que você criar
 };
 
