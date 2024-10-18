@@ -1,4 +1,4 @@
-const companyService = require('../services/companyService'); // Supondo que você tenha um serviço para a empresa
+const companyService = require('../services/companyService'); 
 
 // Retornar informações da empresa
 const getCompanyInfo = async (req, res) => {
