@@ -29,11 +29,11 @@ const getAllVehicles = async () => {
     return vehicles;
 };
 
-// Outras funções como updateVehicle e deleteVehicle podem ser adicionadas aqui.
+
 
 module.exports = {
     createVehicle,
     getAllVehicles,
-    // Exporte outras funções que você criar
+    
 };
 
